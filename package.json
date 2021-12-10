@@ -1,4 +1,28 @@
 {
-  "name": "md-links",
-  "version": "0.1.0"
+  "name": "scl018-md-links",
+  "version": "0.1.0",
+  "description": "## Índice",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.6",
+    "scl018-md-links": "^0.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcollaguazo/SCL018-md-links.git"
+  },
+  "author": "Daniela Cristina Collaguazo Taco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dcollaguazo/SCL018-md-links/issues",
+    "email": "dcct84@gmail.com"
+  },
+  "homepage": "https://github.com/dcollaguazo/SCL018-md-links#readme"
 }
